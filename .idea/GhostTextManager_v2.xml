@@ -66,6 +66,18 @@
             </GhostTextMetaData>
           </value>
         </entry>
+        <entry key="continua dando a mesma coisa Error: Command &quot;npm run build&quot; exited with 126">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1756236703560" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
         <entry key="sim faz tudo e da commit e push se conseguir">
           <value>
             <GhostTextMetaData>
