@@ -9,6 +9,7 @@
         <option value="find_usages" />
         <option value="get_errors" />
         <option value="str_replace" />
+        <option value="create_file" />
       </set>
     </option>
   </component>

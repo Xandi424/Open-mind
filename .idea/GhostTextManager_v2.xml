@@ -15,6 +15,18 @@
             </GhostTextMetaData>
           </value>
         </entry>
+        <entry key="Erro no Vercel: Permission denied ao rodar &quot;vite build&quot;.  &#10;Corrija o package.json para usar npx e buildar no Vercel sem erro.">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1756235484297" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
         <entry key="Erro no Vercel: Permission denied ao rodar &quot;vite build&quot;.  &#10;Sugira correção do package.json para buildar com Vercel sem dar erro.">
           <value>
             <GhostTextMetaData>
@@ -37,6 +49,18 @@
                 <list>
                   <option value="1756234628333" />
                   <option value="1756234289494" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="agora quais comandos dou no terminal ali">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1756235553783" />
                 </list>
               </option>
             </GhostTextMetaData>
