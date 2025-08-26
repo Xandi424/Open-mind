@@ -41,6 +41,18 @@
             </GhostTextMetaData>
           </value>
         </entry>
+        <entry key="No meu projeto Vite + Node estou com erro no Vercel: &quot;Permission denied /node_modules/.bin/vite&quot; durante o build.  &#10;Ajuste o package.json para que o build rode no Vercel usando npx, sem depender de binários travados do Windows.">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1756237138727" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
         <entry key="Sim">
           <value>
             <GhostTextMetaData>
